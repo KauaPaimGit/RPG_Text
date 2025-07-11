@@ -1,0 +1,5 @@
+# Dependências Python para RPG Épico Mobile
+kivy==2.1.0
+kivymd>=1.1.1
+plyer>=2.1.0
+android>=0.1.0
